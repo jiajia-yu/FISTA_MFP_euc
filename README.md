@@ -1,5 +1,5 @@
 # FISTA_MFP_euc
-This repository contains MATLAB implementations of FISTA for MFP in euclidean spaces (Yu et al. 2021).
+This repository contains MATLAB implementations of FISTA for MFP in euclidean spaces ([Yu et al. 2021](https://github.com/Jiajia-Yu/FISTA_MFP_euc/blob/main/README.md#reference)).
 
 ## Reference
 
